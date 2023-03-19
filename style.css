@@ -1,0 +1,65 @@
+.foto {
+
+	width: 50%;
+	max-width: 300px;
+	margin: 0 auto;
+	display: block;
+}
+
+.texto {
+	font-size: 24px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: white;
+
+}
+.textodes {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	text-align: center;
+	color: white;
+
+}
+.redes-sociales {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 40px;
+}
+
+.red-social {
+	display: inline-block;
+	font-size: 30px;
+	color: #fff;
+	background-color: #333;
+	padding: 10px;
+	margin: 0 10px;
+	border-radius: 50%;
+	transition: all 0.3s ease-in-out;
+}
+
+.red-social:hover {
+	transform: scale(1.2);
+}
+.rounded-menu {
+	border-radius: 20px;
+	margin: 20px auto;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+footer {
+	background-color: #000;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+body {
+	background-color: #333;
+}
+.navbar-custom {
+	background-color: rgba(255, 255, 255, 0.1);
+	border: none;
+}
